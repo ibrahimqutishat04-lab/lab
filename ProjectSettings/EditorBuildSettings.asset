@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MenuManager.unity
+    guid: a316d6e393d25bf408ef605c2a9a9531
+  - enabled: 1
+    path: Assets/Scenes/Laboratory Scene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: abce3d4e10127504094fd707a1dfd660, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 90d21933bce7b864688d43009748ffeb, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 6433c2495eba9e944a7b10d605e8ddcd, type: 2}
+  m_UseUCBPForAssetBundles: 0
